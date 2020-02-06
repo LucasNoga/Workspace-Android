@@ -1,0 +1,5 @@
+<resources>
+    <string name="status">Mettre votre status ici</string>
+    <string name="nbChar">20 caracteres restants</string>
+    <string name="app_name">Text Watcher</string>
+</resources>

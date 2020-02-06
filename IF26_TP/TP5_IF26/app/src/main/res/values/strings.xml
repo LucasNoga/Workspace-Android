@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TP5_IF26</string>
+    <string name="add_module">add module</string>
+    <string name="del_module">del module</string>
+    <string name="list_sigle">list sigle</string>
+    <string name="list_module">list module</string>
+    <string name="sigle">Sigle</string>
+    <string name="parcours">Parcours</string>
+    <string name="categorie">Categorie</string>
+    <string name="credit">Credit</string>
+    <string name="envoyer">Ajouter</string>
+</resources>

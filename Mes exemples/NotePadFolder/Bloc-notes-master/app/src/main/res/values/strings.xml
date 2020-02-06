@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Bloc-notes</string>
+
+    <string name="app_edit">Édition</string>
+
+    <string name="titleEditNote">Editer note</string>
+    <string name="saveNote">Sauvegarder</string>
+    <string name="deleteNote">Supprimer</string>
+    <string name="revertChanges">Annuler changement</string>
+    <string name="listEmpty">La liste est vide</string>
+    <string name="share">Partager</string>
+    <string name="newPaste">Coller depuis le presse-papier</string>
+
+    <string name="contextCopy">Copier le contenu</string>
+    <string name="contextDelete">Supprimer</string>
+    <string name="contextDuplicate">Dupliquer</string>
+
+    <string name="dialogDeleteNote">Supprimer note?</string>
+    <string name="dialogRevertChanges">Annuler tous les changements depuis la dernière sauvegarde?</string>
+    <string name="dialogDeleteSelected">Supprimer la note sélectionné ?</string>
+
+    <string name="toastClipboardEmpty">Le presse-papier est vide</string>
+
+
+    <string name="shareEntityName">Note</string>
+    <string name="sharePromptText">Partager la note</string>
+
+    <string name="toastNoteDeleted">Note supprimée</string>
+    <string name="toastNoteSaved">Note sauvegardée!</string>
+
+    <string name="exit">Quitter</string>
+
+
+    <!-- update -->
+
+    <string name="update">Mise à jour</string>
+
+    <string name="appupdater_update_available">Nouvelle mise à jour disponible</string>
+
+    <string name="appupdater_update_available_description_dialog">La mise à jour %1$s est disponible. En téléchargeant cette version de l\'application, vous aurez accès aux dernières fonctionnalités et améliorations de %2$s.</string>
+    <string name="appupdater_update_available_description_dialog_before_release_notes">La mise à jour %1$s est disponible.\n\nNOUVEAUTÉS:\n%2$s</string>
+    <string name="appupdater_update_available_description_snackbar">Mise à jour %1$s disponible.</string>
+    <string name="appupdater_update_not_available">Aucune mise à jour disponible</string>
+    <string name="appupdater_update_not_available_description">Vous avez la dernière version disponible de %s.</string>
+    <string name="appupdater_btn_update">Télécharger</string>
+    <string name="appupdater_btn_dismiss">Plus tard</string>
+    <string name="about">A propos</string>
+
+    <string name="about_message">
+        \n
+        Bloc-notes pour android.\n
+        \n
+        Old Geek, 2017\n
+        \n
+        Licence: aucune, profitez, partagez.\n
+        \n
+    </string>
+
+</resources>
